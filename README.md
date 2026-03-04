@@ -157,4 +157,5 @@ Possible extensions:
 
 ## Author
 
+
 Student project for practicing **data parsing and basic data analysis using Python**.
